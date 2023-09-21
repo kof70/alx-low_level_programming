@@ -28,5 +28,5 @@ int main(void)
 	{
 		printf("%d and is less than 6 and not 0\n", n % 10);
 	}
-	return (0);
+	return (0);/** betty me fait chier mort */
 }
