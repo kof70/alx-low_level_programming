@@ -8,13 +8,15 @@
 
 int main(void)
 {
-	char letter;/*letter la variables pour stocker chaque lettre de l alphabet et n importe quoi peut etre la variable*/
+	char letter;
+	/*letter la variables pour stocker chaque lettre de l alphabet*/
+       /*n importe quoi peut etre la variable*/
 
-	for (letter = 'a'; letter <='z'; letter++)/*declaration des variables*/
+	for (letter = 'a'; letter <= 'z'; letter++)/*declaration des variables*/
 	{
 		putchar(letter);/*imprimez chq lettre*/
 	}
 	putchar('\n');/* pour la ligne a la fin */
 
-	return 0;
+	return (0);
 }
