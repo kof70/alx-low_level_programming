@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char letter;
+	char letter;/*betty ma nique mon vibe*/
 	
 	for (letter = 'a'; letter <= 'z'; letter++)
 	{
