@@ -7,8 +7,8 @@
  */
 int main(void)
 {
-	char letter;
-
+	char letter/;
+/*il veule me faire chier*/
 	for (letter = 'a'; letter <= 'z'; letter++)
 	{
 		if (letter != 'q' && letter != 'e')
