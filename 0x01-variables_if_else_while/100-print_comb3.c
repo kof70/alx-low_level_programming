@@ -14,13 +14,14 @@ int main(void)
 		for (num2 = num1 + 1; num2 <= 9; num2++) /* Start num2 from num1 + 1*/
 		{
 			putchar(num1 + '0');
-			putchar(' ');
 			putchar(num2 + '0');
 
 			if (num1 == 8 && num2 == 9)
 				putchar('\n');
+
 			else
 				putchar(',');
+			putchar(' '); /* Ajout d'un espace après la virgule*/
 		}
 	}
 
