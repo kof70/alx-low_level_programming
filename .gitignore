@@ -1,0 +1,8 @@
+# Ignorer les fichiers swp générés par Vim
+*.swp
+
+# Ignorer les exécutables
+a.out
+*.exe
+*.out
+
