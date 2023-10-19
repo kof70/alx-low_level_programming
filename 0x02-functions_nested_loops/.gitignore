@@ -3,6 +3,4 @@ _putchar.c
 *main.c
 # Ignorer les fichiers exécutables
 my_executable
-*.o
-*
-*.out
+
