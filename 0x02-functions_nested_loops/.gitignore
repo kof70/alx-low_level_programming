@@ -1,3 +1,6 @@
 _putchar.c
 *.sw*
 *main.c
+# Ignorer les fichiers exécutables
+my_executable
+
