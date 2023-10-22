@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  *
- * Return: 0 Always
+ * Description: Prints the lowercase alphabet, starting from the letter 'a'
+ * to the letter 'z', followed by a new line.
  */
 void print_alphabet(void)
 {

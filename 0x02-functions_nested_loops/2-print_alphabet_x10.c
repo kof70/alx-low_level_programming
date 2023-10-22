@@ -1,8 +1,11 @@
 #include "main.h"
 
 /**
- * print de a ;; z fois10 - Entry point
- *avec ma propre prototype
+ * print de a  z fois10 - Entry point
+ *
+ * Descriptin:
+ * avec ma propre prototype
+ * followed
  * Return: void
  */
 void print_alphabet_x10(void)
@@ -18,4 +21,3 @@ void print_alphabet_x10(void)
 		_putchar('\n');
 	}
 }
-		
