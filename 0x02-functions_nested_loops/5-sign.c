@@ -2,7 +2,8 @@
 
 /**
  * print_sign - sign of number print
- * @c: a nuber to check the sign
+ * @n: a nuber to check the sign
+ * Return: 0
  */
 int print_sign(int n)
 {
@@ -17,7 +18,7 @@ int print_sign(int n)
 		_putchar('-');
 		return (-1);
 	}
-	else 
+	else
 	{
 		_putchar('0');
 	}
