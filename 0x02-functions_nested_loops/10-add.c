@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * a + b - function adds two integers and returns the result.
- * @a,b: the variables
+ * add - function adds two integers and returns the result.
+ * @a: the variables
+ * @b: parameters
  * Return: the result
  */
 int add(int a, int b)
